@@ -17,7 +17,6 @@ L'objectif de ce guide est de permettre à n'importe qui de donner une seconde v
 ## 1. Téléchargement de l'ISO officiel de Windows 11 et de Rufus
 
 1. Rendez-vous sur la page officielle de Microsoft : [Télécharger Windows 11](https://www.microsoft.com/fr-ca/software-download/windows11).
-2. Dans la section **Téléchargement de l'image disque (ISO) de Windows 11**, sélectionnez l'option ISO multi-éditions.
 
 > [!CAUTION]
 > **Attention à l'architecture de votre processeur :**
@@ -25,7 +24,7 @@ L'objectif de ce guide est de permettre à n'importe qui de donner une seconde v
 
 ![image1](images/01-telecharger-windows.png)
 
-3. Rendez-vous sur le site officiel de Rufus : [rufus.ie](https://rufus.ie/fr/) et téléchargez la dernière version du logiciel.
+2. Rendez-vous sur le site officiel de Rufus : [rufus.ie](https://rufus.ie/fr/) et téléchargez la dernière version du logiciel.
 
 ![image2](images/02-telecharger-rufus.png)
 
