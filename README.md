@@ -20,7 +20,7 @@ L'objectif de ce guide est de permettre à n'importe qui de donner une seconde v
 
 > [!CAUTION]
 > **Attention à l'architecture de votre processeur :**
-> Assurez-vous de télécharger la version pour processeurs sous peine d'avoir un message d'erreur d'incompatibilité au démarrage de la clé USB.
+> Assurez-vous de télécharger la version pour votre processeurs sous peine d'avoir un message d'erreur d'incompatibilité au démarrage de la clé USB.
 
 ![image1](images/01-telecharger-windows.png)
 
